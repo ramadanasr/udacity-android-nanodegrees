@@ -12,6 +12,8 @@ No programming experience? No problem! The skills you learn in this
 beginning Nanodegree program will accelerate your journey to becoming a working
 Android Developer.
 
+1. [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+1. [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
 1. [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 1. [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
@@ -30,6 +32,7 @@ The skills you learn in this Nanodegree program will help you master the
 existing platform, and prepare you for the exciting opportunities in Android's
 future.
 
+1. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
