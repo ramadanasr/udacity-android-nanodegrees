@@ -2,7 +2,7 @@
 
 [Udacity](https://www.udacity.com/) offers great content for Android Programming in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
-the money, and/or just don't want to pay for them, you can take same of the
+the money you can take same of the
 courses for free (but without certificate).
 
 
@@ -25,12 +25,9 @@ Android Developer.
 
 ### Android Developer Nanodegree
 
-For intermediate Java developers pursuing Android specialization, this program
+For Java developers pursuing Android specialization, this program
 teaches the tools, principles, and patterns that underlie all Android
 development.
-The skills you learn in this Nanodegree program will help you master the
-existing platform, and prepare you for the exciting opportunities in Android's
-future.
 
 1. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
@@ -52,5 +49,7 @@ future.
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
 1. [Android Auto Development](https://www.udacity.com/course/android-auto-development--ud875C)
 1. [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
+1. [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
+1. [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
 
 ---
