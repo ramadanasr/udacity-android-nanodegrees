@@ -42,6 +42,12 @@ future.
 1. [Add Google Sign-In to your Android Apps](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)
 1. [Passwordless Login Solutions for Android](https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357)
 1. [Firebase in a Weekend (Android)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+1. [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
+1. [Google Analytics for Android](https://www.udacity.com/course/google-analytics-for-android--ud876-2)
+1. [Monetize Your Android App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)
+1. [Android TV and Google Cast Development](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
+1. [Android Auto Development](https://www.udacity.com/course/android-auto-development--ud875C)
+1. [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
 
 ---
