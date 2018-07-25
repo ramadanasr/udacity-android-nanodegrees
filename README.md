@@ -39,4 +39,10 @@ development.
 1. [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
 1. [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
 
----
+
+* [Sample Android Apps](https://github.com/MhammadAlkhalaf/udacity-android-nanodegrees/blob/master/sample-android-apps.md)
+  
+  
+ ---
+  
+  
