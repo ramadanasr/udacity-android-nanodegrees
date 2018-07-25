@@ -6,11 +6,12 @@ the money you can take same of the
 courses for free (but without certificate).
 
 
-### Android Basics Nanodegree
+# Android Nanodegree
 
 No programming experience? No problem! The skills you learn in this
-beginning Nanodegree program will accelerate your journey to becoming a working
-Android Developer.
+Nanodegree program will accelerate your journey to becoming a working
+Android Developer.this program teaches the tools, principles, and patterns that underlie all Android
+development.
 
 1. [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 1. [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
@@ -20,15 +21,6 @@ Android Developer.
 1. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 1. [How to create <anything> in Android](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)
-
----
-
-### Android Developer Nanodegree
-
-For Java developers pursuing Android specialization, this program
-teaches the tools, principles, and patterns that underlie all Android
-development.
-
 1. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
