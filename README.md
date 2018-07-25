@@ -2,8 +2,8 @@
 
 [Udacity](https://www.udacity.com/) offers great content for Android Programming in their 
 Nanodegree programs. If you don't have the money you can take
- same of the courses for free (but without certificate).
-No programming experience? No problem! The skills you learn in this
+same of the courses for free (but without certificate).
+The skills you learn in this
 Nanodegree program will accelerate your journey to becoming a working
 Android Developer.this program teaches the tools, principles, and patterns that underlie all Android
 development.
